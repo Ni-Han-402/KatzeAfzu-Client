@@ -1,7 +1,9 @@
+import Navber from "./Components/Navber";
+
 function App() {
   return (
     <div className="App">
-      <h1>Katze Afzu</h1>
+      <Navber></Navber>
     </div>
   );
 }
